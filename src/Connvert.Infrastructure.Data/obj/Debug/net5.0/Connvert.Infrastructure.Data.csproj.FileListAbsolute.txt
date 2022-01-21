@@ -1,0 +1,11 @@
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\bin\Debug\net5.0\Connvert.Infrastructure.Data.deps.json
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\bin\Debug\net5.0\Connvert.Infrastructure.Data.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\bin\Debug\net5.0\ref\Connvert.Infrastructure.Data.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\bin\Debug\net5.0\Connvert.Infrastructure.Data.pdb
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.AssemblyInfo.cs
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\ref\Connvert.Infrastructure.Data.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Infrastructure.Data\obj\Debug\net5.0\Connvert.Infrastructure.Data.pdb

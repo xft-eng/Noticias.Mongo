@@ -1,0 +1,11 @@
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\bin\Debug\net5.0\Connvert.Domain.deps.json
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\bin\Debug\net5.0\Connvert.Domain.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\bin\Debug\net5.0\ref\Connvert.Domain.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\bin\Debug\net5.0\Connvert.Domain.pdb
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.AssemblyInfoInputs.cache
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.AssemblyInfo.cs
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.csproj.CoreCompileInputs.cache
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\ref\Connvert.Domain.dll
+C:\.net\Testes\Connvert\src\Connvert\Connvert.Domain\obj\Debug\net5.0\Connvert.Domain.pdb

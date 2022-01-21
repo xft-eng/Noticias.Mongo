@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFrEzo02Z0OXXwK5UGgrHHUrlWl0R0rzvsMwPGT+5e5xdQk+pbJXo+CPqv4opTznG5TcDXWlX0OIVPnL278c0w==",
+  "success": true,
+  "projectFilePath": "C:\\.net\\Testes\\Connvert\\Connvert\\src\\Connvert.Domain\\Connvert.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cogtit619\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\cogtit619\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

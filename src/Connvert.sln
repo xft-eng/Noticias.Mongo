@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connvert.API", "Connvert.API\Connvert.API.csproj", "{41AAD4BC-AA6C-407E-8815-980C590FF8E3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259} = {1AC0C1AF-0103-48FF-8C61-3194B76CF259}
+		{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8} = {F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connvert.Application", "Connvert.Application\Connvert.Application.csproj", "{E7F7A341-4A5C-406D-A293-1A395D4B88A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259} = {1AC0C1AF-0103-48FF-8C61-3194B76CF259}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connvert.Domain", "Connvert.Domain\Connvert.Domain.csproj", "{1AC0C1AF-0103-48FF-8C61-3194B76CF259}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connvert.Infrastructure.Data", "Connvert.Infrastructure.Data\Connvert.Infrastructure.Data.csproj", "{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E7F7A341-4A5C-406D-A293-1A395D4B88A6} = {E7F7A341-4A5C-406D-A293-1A395D4B88A6}
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259} = {1AC0C1AF-0103-48FF-8C61-3194B76CF259}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Connvert.Test", "Connvert.Test\Connvert.Test.csproj", "{87B79790-979B-49B2-B4D8-D3A05F11B509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connvert.Infrastructure.IoC", "Connvert.Infrastructure.IoC\Connvert.Infrastructure.IoC.csproj", "{D8B7D169-A5C5-448C-BA0C-941A94F6AEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AAD4BC-AA6C-407E-8815-980C590FF8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AAD4BC-AA6C-407E-8815-980C590FF8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AAD4BC-AA6C-407E-8815-980C590FF8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AAD4BC-AA6C-407E-8815-980C590FF8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F7A341-4A5C-406D-A293-1A395D4B88A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F7A341-4A5C-406D-A293-1A395D4B88A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F7A341-4A5C-406D-A293-1A395D4B88A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F7A341-4A5C-406D-A293-1A395D4B88A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC0C1AF-0103-48FF-8C61-3194B76CF259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FA4CB7-B2EF-4FE1-853A-E54A6FC438B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B79790-979B-49B2-B4D8-D3A05F11B509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B79790-979B-49B2-B4D8-D3A05F11B509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B79790-979B-49B2-B4D8-D3A05F11B509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B79790-979B-49B2-B4D8-D3A05F11B509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B7D169-A5C5-448C-BA0C-941A94F6AEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B7D169-A5C5-448C-BA0C-941A94F6AEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B7D169-A5C5-448C-BA0C-941A94F6AEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B7D169-A5C5-448C-BA0C-941A94F6AEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41EC5DEA-49DC-4D09-9243-154FC4476EF2}
+	EndGlobalSection
+EndGlobal
